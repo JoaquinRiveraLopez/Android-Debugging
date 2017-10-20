@@ -1,0 +1,7 @@
+How to start the adb server:
+
+Open the cmd and use:
+cd C:\Users\joaqu\AppData\Local\Android\sdk\platform-tools
+adb start-server
+
+SUCCESS!
